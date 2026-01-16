@@ -47,15 +47,7 @@ After extracting the ZIP file, the project structure will be:
 
 ---
 
-## ▶️ How to Run the Project
 
-### 1️⃣ Extract ZIP
-Download and extract `weather-app.zip`.
-
-### 2️⃣ Run Backend
-Open terminal inside the `weather-backend` folder and run:
-
-```bash
 npm install
 node server.js
 👨‍💻 Author
